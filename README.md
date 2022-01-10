@@ -8,7 +8,7 @@ I have +20 years making all kinds of software, specially software for Web.
 The goal is to survive to a "Spyder Man - No way home" premiere demand... Means +10K transactions per hour.
 
 The purpose of this project is to learn some technologies that I still don't know:
-- Use of Docker containers and micro services architecture
+- Use of Docker containers and microservices architecture
 - Use KeyCloak for Authentication and Authorization (OpenID Connect + OAuth2)
 - React for the "Home" front-end
 - Vue.js for the "Checkout" front-end
@@ -21,19 +21,18 @@ The purpose of this project is to learn some technologies that I still don't kno
 
 🌱 I’m currently learning [React](https://github.com/facebook/react/), [Vue.js](https://github.com/vuejs/vue), [Angular](https://github.com/angular/angular), [KeyCloak](https://github.com/keycloak/keycloak), [RabbitMQ](https://github.com/rabbitmq), [MongoDB](https://github.com/mongodb) and [Memcached](https://github.com/memcached/memcached).
 
-✨ I already know:
+💬 I already know (and you can Ask me about):
 - HTML, Javascript, CSS
 - Bootstrap, jQuery (old stuff, I know)
-- C# .NET Framework
-- C# .NET Core 3.1
+- .NET Framework annd .NET Core 3.1 (Using C#)
 - ASP.NET, ASP.NET Core, MVC, Entity Framework, LINQ
-- MS SQL Server
-- A lot of other old tech
+- Microsoft SQL Server and MySQL
+- A lot of other older tech (ASP, Visual Basic, Access DB, PHP)
 - Some basic Arduino and ESP32 (C and C++) programming
 
 📫 How to reach me: danarrib@gmail.com
 
-⚡ Fun fact: I love RC aircraft (Model airplanes and FPV drones). So I made a ground control station system to use with my aircrafts, which is [BulletGCSS](https://github.com/danarrib/BulletGCSS). It's a software that sends aircraft telemetry data over the cellular network to the aircraft operator.
+⚡ Fun fact: I love to build and to fly RC aircrafts (Model airplanes and FPV drones). So I made a ground control station system to use with my aircrafts, which is [BulletGCSS](https://github.com/danarrib/BulletGCSS). It's a software that sends aircraft telemetry data over the cellular network to the aircraft operator.
 
 
 <!--
