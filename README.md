@@ -26,7 +26,7 @@ The purpose of this project is to learn some technologies that I still don't kno
 - Bootstrap, jQuery (old stuff, I know)
 - C# .NET Framework
 - C# .NET Core 3.1
-- ASP.NET and ASP.NET Core
+- ASP.NET, ASP.NET Core, MVC, Entity Framework, LINQ
 - MS SQL Server
 - A lot of other old tech
 - Some basic Arduino and ESP32 (C and C++) programming
