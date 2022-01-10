@@ -8,17 +8,18 @@ I have +20 years making all kinds of software, specially software for Web.
 The goal is to survive to a "Spyder Man - No way home" premiere demmand... Means +10K transactions per hour.
 
 The purpose of this project is to learn some technologies that I still don't know:
-- Use of Docker containers and micro services
+- Use of Docker containers and micro services architecture
 - Use KeyCloak for Authentication and Authorization (OpenID Connect + OAuth2)
 - React for the "Home" front-end
 - Vue.js for the "Checkout" front-end
 - Angular for the "Backoffice" front-end
 - RabbitMQ
 - MongoDB
+- Memcached
 - Automated testing
 - Azure and/or AWS
 
-🌱 I’m currently learning React, Vue.js, Angular, KeyCloak, RabbitMQ and MongoDB
+🌱 I’m currently learning [React](https://github.com/facebook/react/), [Vue.js](https://github.com/vuejs/vue), [Angular](https://github.com/angular/angular), [KeyCloak](https://github.com/keycloak/keycloak), [RabbitMQ](https://github.com/rabbitmq), [MongoDB](https://github.com/mongodb) and [Memcached](https://github.com/memcached/memcached).
 
 ✨ I already know:
 - HTML, Javascript, CSS
