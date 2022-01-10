@@ -27,7 +27,7 @@ The purpose of this project is to learn some technologies that I still don't kno
 - C# .NET Core 3.1
 - ASP.NET and ASP.NET Core
 - MS SQL Server
-- A lot of other old tech... Like Classic ASP, PHP, MySQL
+- A lot of other old tech
 - Some basic Arduino and ESP32 (C and C++) programming
 
 📫 How to reach me: danarrib@gmail.com
