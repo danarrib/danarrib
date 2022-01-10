@@ -4,7 +4,7 @@
 
 I have +20 years making all kinds of software, specially software for Web.
 
-🔭 I’m currently working on a Cinema tickets seller system, which will be capable of handling very heavy peaks of incoming traffic. 
+🔭 I’m currently working on a Cinema tickets seller system, which will be capable of handling very heavy peaks of incoming traffic.
 The goal is to survive to a "Spyder Man - No way home" premiere demmand... Means +10K transactions per hour.
 
 The purpose of this project is to learn some technologies that I still don't know:
