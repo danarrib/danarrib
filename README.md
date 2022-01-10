@@ -10,15 +10,15 @@ The goal is to survive to a "Spyder Man - No way home" premiere demmand... Means
 The purpose of this project is to learn some technologies that I still don't know:
 - Use of Docker containers and micro services
 - Use KeyCloak for Authentication and Authorization (OpenID Connect + OAuth2)
-- ReactJS for the "Home" front-end
-- VueJS for the "Checkout" front-end
+- React for the "Home" front-end
+- Vue.js for the "Checkout" front-end
 - Angular for the "Backoffice" front-end
 - RabbitMQ
 - MongoDB
 - Automated testing
 - Azure and/or AWS
 
-🌱 I’m currently learning ReactJS, VueJS, Angular, KeyCloak, RabbitMQ and MongoDB
+🌱 I’m currently learning React, Vue.js, Angular, KeyCloak, RabbitMQ and MongoDB
 
 ✨ I already know:
 - HTML, Javascript, CSS
