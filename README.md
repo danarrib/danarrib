@@ -24,7 +24,7 @@ The purpose of this project is to learn some technologies that I still don't kno
 💬 I already know (and you can Ask me about):
 - HTML, Javascript, CSS
 - Bootstrap, jQuery (old stuff, I know)
-- .NET Framework annd .NET Core 3.1 (Using C#)
+- .NET Framework and .NET Core 3.1 (Using C#)
 - ASP.NET, ASP.NET Core, MVC, Entity Framework, LINQ
 - Microsoft SQL Server and MySQL
 - A lot of other older tech (ASP, Visual Basic, Access DB, PHP)
