@@ -15,14 +15,14 @@ The purpose of this project is to learn some technologies that I still don't kno
 - Angular for the "Backoffice" front-end
 - RabbitMQ
 - MongoDB
-- Memcached
+- Redis
 - Automated testing
 - Azure and/or AWS
 
-🌱 I’m currently learning [React](https://github.com/facebook/react/), [Vue.js](https://github.com/vuejs/vue), [Angular](https://github.com/angular/angular), [KeyCloak](https://github.com/keycloak/keycloak), [RabbitMQ](https://github.com/rabbitmq), [MongoDB](https://github.com/mongodb) and [Memcached](https://github.com/memcached/memcached).
+🌱 I’m currently learning [React](https://github.com/facebook/react/), [Vue.js](https://github.com/vuejs/vue), [Angular](https://github.com/angular/angular), [KeyCloak](https://github.com/keycloak/keycloak), [RabbitMQ](https://github.com/rabbitmq), [MongoDB](https://github.com/mongodb) and [Redis](https://github.com/redis/redis).
 
 💬 I already know (and you can Ask me about):
-- HTML, Javascript, CSS
+- HTML5, Javascript (ES2018), CSS
 - Bootstrap, jQuery (old stuff, I know)
 - .NET Framework and .NET Core 3.1 (Using C#)
 - ASP.NET, ASP.NET Core, MVC, Entity Framework, LINQ
