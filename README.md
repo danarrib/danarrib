@@ -11,22 +11,25 @@ The purpose of this project is to learn some technologies that I still don't kno
 - Use of Docker containers and microservices architecture
 - Use KeyCloak for Authentication and Authorization (OpenID Connect + OAuth2)
 - React for the "Home" front-end
-- Vue.js for the "Checkout" front-end
-- Angular for the "Backoffice" front-end
+- Vue.js for the "Backoffice" front-end
+- Angular for the "Checkout" front-end
+- Remix for the "User portal" front-end
 - RabbitMQ
 - MongoDB
 - Redis
 - Automated testing
 - Azure and/or AWS
 
-🌱 I’m currently learning [React](https://github.com/facebook/react/), [Vue.js](https://github.com/vuejs/vue), [Angular](https://github.com/angular/angular), [KeyCloak](https://github.com/keycloak/keycloak), [RabbitMQ](https://github.com/rabbitmq), [MongoDB](https://github.com/mongodb) and [Redis](https://github.com/redis/redis).
+🌱 I’m currently learning [React](https://github.com/facebook/react/), [Vue.js](https://github.com/vuejs/vue), [Angular](https://github.com/angular/angular), [KeyCloak](https://github.com/keycloak/keycloak), [Remix](https://github.com/remix-run/remix), [RabbitMQ](https://github.com/rabbitmq), [MongoDB](https://github.com/mongodb) and [Redis](https://github.com/redis/redis).
 
 💬 I already know (and you can Ask me about):
 - HTML5, Javascript (ES2018), CSS
-- Bootstrap, jQuery (old stuff, I know)
+- React, Vue.js, Bootstrap, jQuery
 - .NET Framework and .NET Core 3.1 (Using C#)
 - ASP.NET, ASP.NET Core, MVC, Entity Framework, LINQ
 - Microsoft SQL Server and MySQL
+- Redis
+- Docker
 - A lot of other older tech (ASP, Visual Basic, Access DB, PHP)
 - Some basic Arduino and ESP32 (C and C++) programming
 
