@@ -30,6 +30,7 @@ The purpose of this project is to learn some technologies that I still don't kno
 - Microsoft SQL Server and MySQL
 - Redis
 - Docker
+- Ionic Framework
 - A lot of other older tech (ASP, Visual Basic, Access DB, PHP)
 - Some basic Arduino and ESP32 (C and C++) programming
 
