@@ -7,7 +7,7 @@ I have +20 years making all kinds of software, specially software for Web.
 🔭 I’m currently working on a Cinema tickets seller system, which will be capable of handling very heavy peaks of incoming traffic.
 The goal is to survive to a "Spyder Man - No way home" premiere demand... Means +10K transactions per hour.
 
-The purpose of this project is to learn some technologies that I still don't know:
+The purpose of this project is to learn and get experience on some technologies:
 - Use of Docker containers and microservices architecture
 - Use KeyCloak for Authentication and Authorization (OpenID Connect + OAuth2)
 - React for the "Home" front-end
@@ -24,10 +24,10 @@ The purpose of this project is to learn some technologies that I still don't kno
 
 💬 I already know (and you can Ask me about):
 - HTML5, Javascript (ES2018), CSS
-- React, Vue.js, Bootstrap, jQuery
-- .NET Framework and .NET Core 3.1 (Using C#)
+- React, Vue.js, Angular, Bootstrap, jQuery
+- .NET Framework and .NET 6 (Using C#)
 - ASP.NET, ASP.NET Core, MVC, Entity Framework, LINQ
-- Microsoft SQL Server and MySQL
+- Microsoft SQL Server,  MySQL and Postgres
 - Redis
 - Docker
 - Ionic Framework
